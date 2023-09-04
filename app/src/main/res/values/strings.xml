@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Proyecto Final - Alexis Magnin</string>
+    <string name="btn_comparar">Comparar</string>
+    <string name="hint_primer_texto">Ingrese primer texto</string>
+    <string name="hint_segundo_texto">Ingrese segundo texto</string>
+    <string name="resultado_true">Los textos son iguales!</string>
+    <string name="resultado_false">Los textos son diferentes.</string>
+    <string name="resultado_error">ERROR: Completa correctamente los campos.</string>
+</resources>
